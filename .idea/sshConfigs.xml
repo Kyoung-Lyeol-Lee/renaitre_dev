@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="byrenaitre.net" id="54d5bb14-a952-4725-93bc-4ecadddf1fec" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" />
+      <sshConfig authType="PASSWORD" host="gdadmin.kl89211.godomall.com" id="9faf34a9-823d-408b-b04d-5a706431c3df" port="17662" nameFormat="DESCRIPTIVE" username="ftpwithslow" />
+    </configs>
+  </component>
+</project>

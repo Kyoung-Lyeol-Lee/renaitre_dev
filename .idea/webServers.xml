@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3134b6cc-7f72-4e09-9e05-d66c7d8fa09c" name="renaitre_fileserver_dev">
+        <fileTransfer rootFolder="/home/ubuntu/byrenaitre" accessType="SFTP" host="byrenaitre.net" port="22" sshConfigId="54d5bb14-a952-4725-93bc-4ecadddf1fec" sshConfig="ubuntu@byrenaitre.net:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="04ca0c5e-2091-4133-80c2-f06656cf5738" name="renaitre_godomall_dev">
+        <fileTransfer accessType="SFTP" host="gdadmin.kl89211.godomall.com" port="17662" sshConfigId="9faf34a9-823d-408b-b04d-5a706431c3df" sshConfig="ftpwithslow@gdadmin.kl89211.godomall.com:17662 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
